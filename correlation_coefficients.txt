@@ -1,0 +1,144 @@
+
+index	feature1	feature2	corr	abs_corr
+430	1269	75 to 84 years	division_name_Middle Atlantic	0.778577	0.778577
+436	24470	location_name_Church/Synagogue/Temple/Mosque	victim_types_Religious Organization	0.758907	0.758907
+438	22007	offense_name_Weapon Law Violations	victim_types_Society/Public	0.739289	0.739289
+444	33388	division_name_Middle Atlantic	65 to 74 years	0.688493	0.688493
+446	33377	division_name_Middle Atlantic	Under 5 years	0.674078	0.674078
+448	1717	25 to 34 years	division_name_Middle Atlantic	0.672413	0.672413
+450	3061	85 years and over	division_name_Middle Atlantic	0.670851	0.670851
+452	33387	division_name_Middle Atlantic	55 to 59 years	0.666294	0.666294
+456	1493	60 to 64 years	division_name_Middle Atlantic	0.663305	0.663305
+458	597	5 to 9 years	division_name_Middle Atlantic	0.660862	0.660862
+462	821	45 to 54 years	division_name_Middle Atlantic	0.654621	0.654621
+464	149	Total population	division_name_Middle Atlantic	0.652460	0.652460
+466	33380	division_name_Middle Atlantic	10 to 14 years	0.651365	0.651365
+472	33386	division_name_Middle Atlantic	35 to 44 years	0.632816	0.632816
+474	33384	division_name_Middle Atlantic	15 to 19 years	0.631439	0.631439
+482	37569	offender_ethnicity_Not Specified	offender_race_Not Specified	0.620441	0.620441
+484	33385	division_name_Middle Atlantic	20 to 24 years	0.620385	0.620385
+496	11489	victim_types_Individual	offense_name_Destruction/Damage/Vandalism of P...	-0.599561	0.599561
+506	15063	offense_name_Drug/Narcotic Violations	victim_types_Society/Public	0.575430	0.575430
+518	10803	victim_types_Business	victim_types_Individual	-0.515677	0.515677
+524	37351	offender_ethnicity_Not Hispanic or Latino	offender_ethnicity_Not Specified	-0.483592	0.483592
+536	1287	75 to 84 years	offender_ethnicity_Not Specified	0.459713	0.459713
+540	4758	bias_desc_Anti-Catholic	victim_types_Religious Organization	0.450657	0.450657
+578	4813	bias_desc_Anti-Catholic	location_name_Church/Synagogue/Temple/Mosque	0.382260	0.382260
+582	33543	division_name_Middle Atlantic	offender_ethnicity_Not Specified	0.379408	0.379408
+584	34197	division_name_Pacific	division_name_Middle Atlantic	-0.371506	0.371506
+586	11251	victim_types_Government	victim_types_Individual	-0.365755	0.365755
+588	7173	bias_desc_Anti-Jewish	75 to 84 years	0.363677	0.363677
+596	35555	offender_race_Black or African American	offender_race_White	-0.358154	0.358154
+598	704	45 to 54 years	bias_desc_Anti-Jewish	0.357209	0.357209
+600	2720	65 to 74 years	bias_desc_Anti-Jewish	0.355938	0.355938
+604	7181	bias_desc_Anti-Jewish	85 years and over	0.352426	0.352426
+606	7175	bias_desc_Anti-Jewish	25 to 34 years	0.352119	0.352119
+608	7178	bias_desc_Anti-Jewish	35 to 44 years	0.351733	0.351733
+610	11478	victim_types_Individual	victim_types_Religious Organization	-0.349452	0.349452
+612	7179	bias_desc_Anti-Jewish	55 to 59 years	0.347918	0.347918
+614	2855	65 to 74 years	offender_ethnicity_Not Specified	0.347762	0.347762
+616	36673	offender_race_White	offender_race_Not Specified	-0.346796	0.346796
+618	256	Under 5 years	bias_desc_Anti-Jewish	0.346567	0.346567
+620	1376	60 to 64 years	bias_desc_Anti-Jewish	0.346438	0.346438
+622	10817	victim_types_Business	offense_name_Destruction/Damage/Vandalism of P...	0.345224	0.345224
+624	7168	bias_desc_Anti-Jewish	Total population	0.344204	0.344204
+628	20236	offense_name_Simple Assault	offense_name_Intimidation	-0.342496	0.342496
+630	36679	offender_race_White	offender_ethnicity_Not Specified	-0.342072	0.342072
+632	928	10 to 14 years	bias_desc_Anti-Jewish	0.340964	0.340964
+634	7170	bias_desc_Anti-Jewish	5 to 9 years	0.340825	0.340825
+640	7177	bias_desc_Anti-Jewish	20 to 24 years	0.335085	0.335085
+642	7176	bias_desc_Anti-Jewish	15 to 19 years	0.334209	0.334209
+646	14650	offense_name_Destruction/Damage/Vandalism of P...	offense_name_Simple Assault	-0.325096	0.325096
+650	17089	offense_name_Intimidation	offense_name_Destruction/Damage/Vandalism of P...	-0.318584	0.318584
+654	7219	bias_desc_Anti-Jewish	victim_types_Individual	-0.313409	0.313409
+656	37421	offender_ethnicity_Not Specified	85 years and over	0.311866	0.311866
+658	35781	offender_race_Multiple	offender_ethnicity_Multiple	0.309959	0.309959
+660	37411	offender_ethnicity_Not Specified	45 to 54 years	0.309196	0.309196
+662	7233	bias_desc_Anti-Jewish	offense_name_Destruction/Damage/Vandalism of P...	0.308549	0.308549
+664	391	Under 5 years	offender_ethnicity_Not Specified	0.306252	0.306252
+672	37419	offender_ethnicity_Not Specified	55 to 59 years	0.301788	0.301788
+674	7317	bias_desc_Anti-Jewish	division_name_Middle Atlantic	0.300225	0.300225
+676	37345	offender_ethnicity_Not Hispanic or Latino	offender_race_Not Specified	-0.300040	0.300040
+680	37342	offender_ethnicity_Not Hispanic or Latino	offender_race_Black or African American	0.299318	0.299318
+682	1511	60 to 64 years	offender_ethnicity_Not Specified	0.298665	0.298665
+684	11429	victim_types_Individual	75 to 84 years	-0.298474	0.298474
+686	615	5 to 9 years	offender_ethnicity_Not Specified	0.294503	0.294503
+688	30140	location_name_Residence/Home	location_name_Highway/Road/Alley/Street/Sidewalk	-0.294310	0.294310
+690	24467	location_name_Church/Synagogue/Temple/Mosque	victim_types_Individual	-0.292442	0.292442
+692	1735	25 to 34 years	offender_ethnicity_Not Specified	0.291644	0.291644
+700	37418	offender_ethnicity_Not Specified	35 to 44 years	0.288520	0.288520
+708	167	Total population	offender_ethnicity_Not Specified	0.286359	0.286359
+710	37412	offender_ethnicity_Not Specified	10 to 14 years	0.285671	0.285671
+716	14610	offense_name_Destruction/Damage/Vandalism of P...	victim_types_Government	0.284903	0.284903
+718	37560	offender_ethnicity_Not Specified	division_name_Pacific	-0.284875	0.284875
+736	34053	division_name_Pacific	75 to 84 years	-0.277520	0.277520
+740	33197	division_name_East South Central	bias_desc_Anti-Sikh	0.276058	0.276058
+742	37459	offender_ethnicity_Not Specified	victim_types_Individual	-0.272722	0.272722
+746	11500	victim_types_Individual	offense_name_Intimidation	0.268137	0.268137
+752	49378	multiple_offense_M	offense_name_Weapon Law Violations	0.262726	0.262726
+754	37416	offender_ethnicity_Not Specified	15 to 19 years	0.262190	0.262190
+756	36903	offender_ethnicity_Hispanic or Latino	offender_ethnicity_Not Specified	-0.262164	0.262164
+762	36073	offender_race_Not Specified	20 to 24 years	-0.260023	0.260023
+766	2401	35 to 44 years	offender_race_Not Specified	-0.259165	0.259165
+770	14892	offense_name_Drug Equipment Violations	location_name_Camp/Campground	0.257645	0.257645
+772	33080	division_name_East North Central	division_name_Pacific	-0.255790	0.255790
+774	36072	offender_race_Not Specified	15 to 19 years	-0.255765	0.255765
+778	11514	victim_types_Individual	offense_name_Simple Assault	0.255278	0.255278
+780	37417	offender_ethnicity_Not Specified	20 to 24 years	0.254680	0.254680
+782	17081	offense_name_Intimidation	offense_name_Aggravated Assault	-0.254370	0.254370
+784	833	45 to 54 years	offender_race_Not Specified	-0.254348	0.254348
+788	11436	victim_types_Individual	65 to 74 years	-0.254013	0.254013
+792	36064	offender_race_Not Specified	Total population	-0.253317	0.253317
+794	37347	offender_ethnicity_Not Hispanic or Latino	offender_race_White	0.252983	0.252983
+798	1057	10 to 14 years	offender_race_Not Specified	-0.251505	0.251505
+802	1729	25 to 34 years	offender_race_Not Specified	-0.250775	0.250775
+804	36075	offender_race_Not Specified	55 to 59 years	-0.250286	0.250286
+808	1505	60 to 64 years	offender_race_Not Specified	-0.249552	0.249552
+812	3073	85 years and over	offender_race_Not Specified	-0.248317	0.248317
+814	609	5 to 9 years	offender_race_Not Specified	-0.247408	0.247408
+816	36065	offender_race_Not Specified	Under 5 years	-0.246696	0.246696
+818	4414	bias_desc_Anti-Black or African American	offender_race_Black or African American	-0.246413	0.246413
+820	2963	85 years and over	victim_types_Individual	-0.244045	0.244045
+822	11427	victim_types_Individual	45 to 54 years	-0.241884	0.241884
+824	12386	victim_types_Society/Public	offense_name_Drug Equipment Violations	0.241399	0.241399
+826	11338	victim_types_Government	location_name_School-Elementary/Secondary	0.240507	0.240507
+828	275	Under 5 years	victim_types_Individual	-0.239746	0.239746
+830	11435	victim_types_Individual	55 to 59 years	-0.239706	0.239706
+832	2849	65 to 74 years	offender_race_Not Specified	-0.239344	0.239344
+834	12161	victim_types_Religious Organization	offense_name_Destruction/Damage/Vandalism of P...	0.238981	0.238981
+836	1395	60 to 64 years	victim_types_Individual	-0.237877	0.237877
+838	37249	offender_ethnicity_Not Hispanic or Latino	offense_name_Destruction/Damage/Vandalism of P...	-0.236025	0.236025
+840	11426	victim_types_Individual	5 to 9 years	-0.235497	0.235497
+842	36222	offender_race_Not Specified	offender_race_Black or African American	-0.234985	0.234985
+846	12858	offense_name_Aggravated Assault	offense_name_Simple Assault	-0.234220	0.234220
+850	14727	offense_name_Destruction/Damage/Vandalism of P...	offender_ethnicity_Not Specified	0.233667	0.233667
+852	947	10 to 14 years	victim_types_Individual	-0.233293	0.233293
+854	36899	offender_ethnicity_Hispanic or Latino	offender_race_White	0.233174	0.233174
+856	33752	division_name_Mountain	division_name_Pacific	-0.233134	0.233134
+858	2291	35 to 44 years	victim_types_Individual	-0.231909	0.231909
+860	11424	victim_types_Individual	Total population	-0.231567	0.231567
+864	1619	25 to 34 years	victim_types_Individual	-0.229462	0.229462
+870	14617	offense_name_Destruction/Damage/Vandalism of P...	offense_name_Aggravated Assault	-0.225140	0.225140
+872	11082	victim_types_Financial Institution	location_name_Bank/Savings and Loan	0.223193	0.223193
+874	1286	75 to 84 years	offender_ethnicity_Not Hispanic or Latino	-0.222810	0.222810
+876	35439	offender_race_Black or African American	bias_desc_Anti-White	0.221557	0.221557
+878	1843	15 to 19 years	victim_types_Individual	-0.220960	0.220960
+884	34203	division_name_Pacific	division_name_West South Central	-0.219583	0.219583
+892	11573	victim_types_Individual	division_name_Middle Atlantic	-0.216255	0.216255
+894	5619	bias_desc_Anti-Gay (Male)	bias_desc_Anti-Black or African American	-0.215998	0.215998
+896	2067	20 to 24 years	victim_types_Individual	-0.215256	0.215256
+898	34201	division_name_Pacific	division_name_South Atlantic	-0.214597	0.214597
+900	37348	offender_ethnicity_Not Hispanic or Latino	offender_ethnicity_Hispanic or Latino	-0.214490	0.214490
+904	4419	bias_desc_Anti-Black or African American	offender_race_White	0.213179	0.213179
+906	14721	offense_name_Destruction/Damage/Vandalism of P...	offender_race_Not Specified	0.211979	0.211979
+908	9965	bias_desc_Anti-Protestant	location_name_Church/Synagogue/Temple/Mosque	0.208302	0.208302
+910	14718	offense_name_Destruction/Damage/Vandalism of P...	offender_race_Black or African American	-0.208090	0.208090
+914	22290	offense_name_Wire Fraud	location_name_Cyberspace	0.208067	0.208067
+916	34199	division_name_Pacific	division_name_New England	-0.206437	0.206437
+918	4288	bias_desc_Anti-Black or African American	bias_desc_Anti-Jewish	-0.204300	0.204300
+920	9910	bias_desc_Anti-Protestant	victim_types_Religious Organization	0.203669	0.203669
+922	36577	offender_race_White	offense_name_Destruction/Damage/Vandalism of P...	-0.203509	0.203509
+924	16593	offense_name_Identity Theft	bias_desc_Anti-Atheism/Agnosticism	0.203388	0.203388
+926	7335	bias_desc_Anti-Jewish	offender_ethnicity_Not Specified	0.202599	0.202599
+928	14669	offense_name_Destruction/Damage/Vandalism of P...	location_name_Church/Synagogue/Temple/Mosque	0.202264	0.202264
+934	10841	victim_types_Business	offense_name_Shoplifting	0.200438	0.200438
