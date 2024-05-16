@@ -1,6 +1,6 @@
 demographics:
 	city - ACSST1Y2022.S0101, U.S. Census Bureau, https://data.census.gov/table/ACSST1Y2022.S0101
-	county - ACSDP1Y2022.DP05, U.S. Census Bureau, https://data.census.gov/table/ACSDP1Y2022.DP05
+	county - ACSDP1Y2022.DP05, U.S. Census Bureau, https://data.census.gov/table/ACSDP1Y2022.DP05?g=010XX00US$0500000
 
 hate_crime: Hate Crime, Federal Bureau of Investigation Crime Data Explorer, https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads#additionalDocuments
 
