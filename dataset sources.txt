@@ -1,0 +1,8 @@
+demographics:
+	city - ACSST1Y2022.S0101, U.S. Census Bureau, https://data.census.gov/table/ACSST1Y2022.S0101
+	county - ACSDP1Y2022.DP05, U.S. Census Bureau, https://data.census.gov/table/ACSDP1Y2022.DP05
+
+hate_crime: Hate Crime, Federal Bureau of Investigation Crime Data Explorer, https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads#additionalDocuments
+
+elections:
+	senate_2022: U.S. Senate county-level results 2022, https://doi.org/10.7910/DVN/YB60EJ
